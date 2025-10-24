@@ -1,0 +1,40 @@
+{
+    "books": {
+        "978-12345": {
+            "title": "Intro to Python",
+            "available": 9
+        }
+    },
+    "borrow_history": [
+        {
+            "action": "borrow",
+            "isbn": "978-12345",
+            "student_id": "MU001"
+        },
+        {
+            "action": "return",
+            "isbn": "978-12345",
+            "student_id": "MU001"
+        },
+        {
+            "action": "borrow",
+            "isbn": "978-12345",
+            "student_id": "MU001"
+        },
+        {
+            "action": "return",
+            "isbn": "978-12345",
+            "student_id": "MU001"
+        },
+        {
+            "action": "borrow",
+            "isbn": "978-12345",
+            "student_id": "MU001"
+        },
+        {
+            "action": "return",
+            "isbn": "978-12345",
+            "student_id": "MU001"
+        }
+    ]
+}

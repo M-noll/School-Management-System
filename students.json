@@ -1,0 +1,16 @@
+{
+    "MU001": {
+        "name": "Alice",
+        "year": 2,
+        "courses": [
+            "Math101"
+        ]
+    },
+    "MU002": {
+        "name": "Bob",
+        "year": 3,
+        "courses": [
+            "Math101"
+        ]
+    }
+}
